@@ -40,5 +40,5 @@ Dabble Library and Dabble App.
 
 
 <a name="circuit"></a>
-## 🔎 Circuit
+## ⚡ Circuit
 <img scr="circuit.png">
